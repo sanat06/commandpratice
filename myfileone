@@ -1,6 +1,9 @@
 this is my 1st line
 <<<<<<< HEAD
 this is my file 2nd line
+<<<<<<< HEAD
 this is my 3rd line
 =======
 >>>>>>> aa77303c014238bf0ab7a2663150beb33ced234a
+=======
+>>>>>>> parent of e6cd4ee (this for revert)
